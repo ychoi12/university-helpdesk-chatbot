@@ -55,7 +55,7 @@ streamlit run app.py
 ## Live Demo (Optional)
 
 > [Deploy on Streamlit Cloud](https://streamlit.io/cloud)  
-> Once deployed, you’ll receive a shareable link to show recruiters or professors!
+> Once deployed, you’ll receive a shareable link to show others
 
 ---
 
